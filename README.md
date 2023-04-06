@@ -5,4 +5,4 @@
 1.0.11 <br>
 1.0.10
 
-<p>Source Code: 
+<p>Source Code: <link>https://github.com/NathanCioppa/SpotifyAutoQueue
