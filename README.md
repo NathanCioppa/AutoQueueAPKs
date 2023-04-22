@@ -1,5 +1,5 @@
 # AutoQueueAPKs <br>
-<h2>latest stable version: 1.1.3 - actually has the auto queue feature</h2>
+<h2>latest stable version: 1.1.4 - actually has the auto queue feature</h2>
 <p>Other stable versions: <br>
 1.0.13.2 <br>
 1.0.12 <br>
