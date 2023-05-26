@@ -1,6 +1,5 @@
 # AutoQueueAPKs <br>
 <h2>latest stable version: 1.1.8 - New app icon, info tab for creating groups</h2>
-<p>Widget customization data is saved so that it should no longer reset itself
 <p>Other stable versions: <br>
 1.1.7 <br>
 1.1.6 <br>
