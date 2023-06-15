@@ -1,6 +1,7 @@
 # AutoQueueAPKs <br>
-<h2>latest stable version: 1.1.9.1 - Second layout option for homescreen widget</h2>
+<h2>latest stable version: 1.1.10.1 - UI improvements</h2>
 <p>Other stable versions: <br>
+1.1.9.1 <br>
 1.1.8 <br>
 1.1.7 <br>
 1.1.6 <br>
