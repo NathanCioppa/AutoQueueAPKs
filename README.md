@@ -1,6 +1,8 @@
 # AutoQueueAPKs <br>
-<h2>latest stable version: 1.1.10.2 - UI improvements</h2>
+<h2>latest stable version: 1.1.12 - Adaptive widget background, improved widget config activity</h2>
 <p>Other stable versions: <br>
+1.1.11 <br>
+1.1.10.2 <br>
 1.1.9.1 <br>
 1.1.8 <br>
 1.1.7 <br>
